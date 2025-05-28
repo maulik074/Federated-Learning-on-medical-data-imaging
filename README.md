@@ -62,3 +62,7 @@ Step 4 :- Server averages the weights from all hospitals.
 Step 5 :- Server replaces the old global model with the averaged weights.
 
 We will repeat steps 2-5 for multiple rounds.
+
+## Results 
+
+![Screenshot 2025-04-22 000950](https://github.com/user-attachments/assets/dcd4567f-aea3-4dfe-8a67-4a7384d5e57e)
