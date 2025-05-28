@@ -36,7 +36,12 @@ From the original dataset, the image shape that we get is (240,240,155), so I ha
 
 Then I merged the 3 channels. I have ignored T1 channel because T1ce is just the contrast enhanced version of T1, so there is no point of doing repetition.
 
+## U Net Architecture
+
+![Picture1](https://github.com/user-attachments/assets/83f2e225-e3e2-4b44-ba55-be22b855c8a4)
+
 ## Federated Learning
+
 
 
 **Federated Learning Workflow** :- 
