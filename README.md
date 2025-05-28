@@ -32,7 +32,7 @@ Preprocessing mainly includes 3 things :- Scaling, cropping and combining the ch
 
 I have used MinMax Scaling to scale the images. 
 
-From the original dataset, the image shape that we got is (240,240,155), so I have cropped the images to (128,128,128). This is because as you can see in the segmentation mask, most of the outer region just has the background, so we can safely crop it so that the model can focus on the tumour region.
+From the original dataset, the image shape that we get is (240,240,155), so I have cropped the images to (128,128,128). This is because as you can see in the segmentation mask, most of the outer region just has the background, so we can safely crop it so that the model can focus on the tumour region.
 
 Then I merged the 3 channels. I have ignored T1 channel because T1ce is just the contrast enhanced version of T1, so there is no point of doing repetition.
 
