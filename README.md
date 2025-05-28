@@ -8,7 +8,7 @@ Therefore, we use the concept of Federated Learning. It is a decentralised machi
 
 **Federated Learning Workflow** :- 
 
-Step 1 :- Initialize Global Model : The server creates a unet model with random weights. 
+Step 1 :- The server creates a unet model with random weights. 
 
 Step 2 :- Server sends the global model to all 5 hospitals.
 
