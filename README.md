@@ -19,10 +19,10 @@ It contains 369 brain MRI scans from glioma patients. Each scan has 4 MRI modali
    
 Each scan contains a segmentation mask
 
-0. Background
-1. Edema
-2. Enhancing Tumor
-3. Necrotic Core
+0. Background (Purple Region)
+1. Necrotic and Non Enhancing Tumour Core (Blue Region)
+2. Peritumoral Edema (Green Region)
+3. GD Enhancing Tumour (Yellow Region)
    
 ![Segmentation Mask](https://github.com/user-attachments/assets/5cfceb1d-105c-45ed-a5a7-eb931fff0559)
 
