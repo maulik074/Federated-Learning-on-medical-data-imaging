@@ -23,8 +23,11 @@ Each scan contains a segmentation mask
 1. Edema
 2. Enhancing Tumor
 3. Necrotic Core
+   
+![Segmentation Mask](https://github.com/user-attachments/assets/5cfceb1d-105c-45ed-a5a7-eb931fff0559)
 
 ## Federated Learning
+
 
 **Federated Learning Workflow** :- 
 
