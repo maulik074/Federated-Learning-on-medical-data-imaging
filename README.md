@@ -8,6 +8,22 @@ Therefore, we use the concept of Federated Learning. It is a decentralised machi
 
 **Models Used for Training**:- I have used the UNet and Attention UNet architectures to train the models. Both are designed for biomedical image segmentation tasks.
 
+## BraTS 2020 Dataset
+
+It contains 369 brain MRI scans from glioma patients. Each scan has 4 MRI modalities : 
+
+1. T1-weighted (T1)
+2. Contrast-enhanced T1-weighted (T1CE)
+3. T2-weighted (T2)
+4. Fluid-attenuated inversion recovery (FLAIR)
+   
+Each scan contains a segmentation mask
+
+0. Background
+1. Edema
+2. Enhancing Tumor
+3. Necrotic Core
+
 ## Federated Learning
 
 **Federated Learning Workflow** :- 
