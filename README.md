@@ -38,7 +38,12 @@ Then I merged the 3 channels. I have ignored T1 channel because T1ce is just the
 
 ## U Net Architecture
 
-![Picture1](https://github.com/user-attachments/assets/83f2e225-e3e2-4b44-ba55-be22b855c8a4)
+![](https://github.com/user-attachments/assets/83f2e225-e3e2-4b44-ba55-be22b855c8a4)
+
+## Attention Unet Architecture
+
+![](https://github.com/user-attachments/assets/9c7a6266-b385-4842-b060-a236d0158cce)
+
 
 ## Federated Learning
 
